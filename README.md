@@ -1,0 +1,2 @@
+# TradingAssistant
+AI Trading Assistant
